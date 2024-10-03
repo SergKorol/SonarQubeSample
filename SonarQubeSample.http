@@ -1,0 +1,6 @@
+@SonarQubeSample_HostAddress = http://localhost:5004
+
+GET {{SonarQubeSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
