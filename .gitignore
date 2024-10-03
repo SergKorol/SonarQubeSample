@@ -1985,3 +1985,13 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+/.sonarqube/conf/0/FilesToAnalyze.txt
+/.sonarqube/conf/0/ProjectOutFolderPath.txt
+/.sonarqube/conf/Sonar-cs.ruleset
+/.sonarqube/conf/Sonar-cs-none.ruleset
+/.sonarqube/conf/Sonar-vbnet.ruleset
+/.sonarqube/conf/Sonar-vbnet-none.ruleset
+/.sonarqube/conf/cs/SonarLint.xml
+/.sonarqube/conf/vbnet/SonarLint.xml
+/.sonarqube/conf/0/SonarProjectConfig.xml
+/.sonarqube/conf/SonarQubeAnalysisConfig.xml
